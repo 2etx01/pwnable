@@ -1,3 +1,7 @@
+'''
+from https://github.com/eQu1NoX/srop-poc/blob/master/Frame.py
+'''
+
 import struct
 import string
 
